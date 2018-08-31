@@ -1,4 +1,4 @@
-page-home {
+page-view-note {
     ion-content {
         background: url(../../assets/imgs/b4.jpeg) no-repeat center fixed;
         background-size: cover;
@@ -13,10 +13,11 @@ page-home {
             opacity : 0.3;
         }
     }
-    .date{
-        font-weight: bold;
+    .note-date{
+        
         color:#888;
-        padding-right: 24px;
+        margin-bottom: 12px;
         font-size: 0.8em;
     }
 }
+
